@@ -1,4 +1,4 @@
-#Run this commands in repo
+#Run this commands in repo directory
 
 npm install
 
